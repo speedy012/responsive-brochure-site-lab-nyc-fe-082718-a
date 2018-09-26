@@ -17,6 +17,9 @@ h2 {
 .header {
   text-align: center;
 }
+.footer{
+  text-aling: center;
+}
 
 .flex-container {
   display: flex;
