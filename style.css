@@ -21,7 +21,7 @@ h2 {
   text-align: center;
 }
 
-.flex-container {
+.dog {
   display: flex;
   flex-wrap: wrap;
   width: 30%;
