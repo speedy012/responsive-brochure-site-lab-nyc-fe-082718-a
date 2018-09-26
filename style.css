@@ -20,4 +20,5 @@ h2 {
 
 .flex-container {
   display: flex-wrap;
+  width: 30%;
 }
