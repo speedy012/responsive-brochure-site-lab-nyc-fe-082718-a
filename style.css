@@ -1,0 +1,19 @@
+body {
+background-color: green;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  padding: 1px;
+  border: 1px solid #021a40;
+}
+  
+
+h2 {
+  font-weight: bold;
+}
+
+.header {
+  text-align: center;
+}
