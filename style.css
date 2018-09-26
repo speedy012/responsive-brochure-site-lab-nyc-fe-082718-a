@@ -24,5 +24,4 @@ h2 {
 .dog {
   display: flex;
   flex-wrap: wrap;
-  width: 30%;
 }
