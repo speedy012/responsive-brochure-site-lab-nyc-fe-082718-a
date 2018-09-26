@@ -20,6 +20,6 @@ h2 {
 
 .flex-container {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: row-wrap;
   width: 30%;
 }
