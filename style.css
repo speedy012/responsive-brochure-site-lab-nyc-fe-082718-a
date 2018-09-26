@@ -1,5 +1,7 @@
 body {
 background-color: green;
+diplay: flex;
+justify-content: center;
 }
 
 img {
