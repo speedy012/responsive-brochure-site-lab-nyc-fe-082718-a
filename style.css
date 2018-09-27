@@ -25,7 +25,6 @@ h2 {
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
   justify-content: flex-start;
   text-align: center;
 }
